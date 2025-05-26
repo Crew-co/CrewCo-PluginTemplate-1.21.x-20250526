@@ -1,1 +1,1 @@
-# CrewCo Plugin Template 1.20.x
+# CrewCo Plugin Template 1.21.x
