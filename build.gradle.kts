@@ -1,7 +1,6 @@
 plugins {
 	java
-	//id("org.jetbrains.kotlin.jvm") version "2.0.21"
-	id("org.jetbrains.kotlin.jvm") version "2.2.0-RC"
+	id("org.jetbrains.kotlin.jvm") version "2.0.21"
 	id("de.eldoria.plugin-yml.bukkit") version "0.7.1"
 	id("com.github.johnrengelman.shadow") version "8.1.1"
 	id("io.papermc.paperweight.userdev") version "2.0.0-beta.17"
